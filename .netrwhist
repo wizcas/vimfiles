@@ -1,2 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='e:/Projects/aoi/Assets/DPyScript'
+let g:netrw_dirhist_2='e:/Projects/aoi/Assets/DPyScript/UI'
+let g:netrw_dirhist_3='e:/Projects/aoi/workspace/aoi/src'
+let g:netrw_dirhist_4='e:/Projects/aoi/workspace/aoi/src/core'
+let g:netrw_dirhist_5='e:/Projects/aoi/workspace/aoi/src'
+let g:netrw_dirhist_6='e:/Projects/aoi/workspace/aoi/src/DUI'
+let g:netrw_dirhist_7='e:/Projects/aoi/workspace/aoi/src'
+let g:netrw_dirhist_8='e:/Projects/aoi/workspace/aoi/src/UI'
+let g:netrw_dirhist_9='C:/Users/Administrator/Desktop'
